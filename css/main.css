@@ -77,3 +77,11 @@ dfn {
 .strong {
   color: black;
 }
+
+li {
+  background-color: #719e07;
+}
+
+.no-highlight {
+  background-color: none;
+}
