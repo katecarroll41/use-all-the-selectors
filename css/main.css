@@ -42,6 +42,10 @@ ul {
   color: #fff;
 }
 
+dfn {
+  background-color: #b58900;
+}
+
 .none {
   background-color: #719e07;
 }
