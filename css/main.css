@@ -22,24 +22,24 @@ ul {
   background-color: #eee8d5;
 }
 
-contents {
+.contents {
   color: #93a1a1;
 }
 
-favs {
+.favs {
   color: #93a1a1;
 }
 
-facts {
+.facts {
   color: #93a1a1;
 }
 
-types {
+.types {
   color: #93a1a1;
 }
 
 .dfn {
-  background-color: #b58900;
+  color: #fff;
 }
 
 .none {
