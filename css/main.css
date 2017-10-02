@@ -22,19 +22,19 @@ ul {
   background-color: #eee8d5;
 }
 
-contents {
+id:contents {
   color: #93a1a1;
 }
 
-favs {
+id:favs {
   color: #93a1a1;
 }
 
-facts {
+id:facts {
   color: #93a1a1;
 }
 
-types {
+id:types {
   color: #93a1a1;
 }
 
@@ -42,14 +42,38 @@ types {
   background-color: #b58900;
 }
 
-.dfn, strong {
+.dfn {
   color: #fff;
 }
 
-a {
+.none {
   background-color: #719e07;
 }
 
 rel="external" {
   background-color: #2694d8;
+}
+
+.raspberry {
+  color: #719e47;
+}
+
+.odd {
+  background-color: #657ba3;
+}
+
+.blueberry {
+  color: #2aa198;
+}
+
+.even {
+  background-color: #586e75;
+}
+
+.third {
+  background-color: #d04b16;
+}
+
+.strong {
+  color: black;
 }
